@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing software which will ultimately save the world.
-- 🌱 I’m currently learning to be really good at making Windows applications using VS
-- ⚡ Favorite quote : Comparison is the theif of joy. Own lane. Own race. Own pace.
+- 🌱 I’m currently learning to be really good at making Windows applications using VS.
+- ⚡ Favorite quote : Comparison is the thief of joy. Own lane. Own race. Own pace.
 - 📫 My socials:
 >  Email - aaronpeter0019@gmail.com
->  Instagram - @_arrow_019
+.. Instagram - [@_arrow_019](https://www.instagram.com/_arrow_019/?next=%2F)
 <!--
 **Arrow-19/Arrow-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
