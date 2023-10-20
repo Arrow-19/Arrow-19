@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on developing software which will ultimately save the world.
-- 🌱 I’m currently learning to be really good at making Windows applications using VS.
+- 🔭 I’m currently working on developing software which will make the world a better place.
+- 🌱 I’m progressing to be really good at making Windows applications using VS.
+- 💻 I'm currently learning Javascript to add to my knowledge base of languages.
 - ⚡ Favorite quote : Comparison is the thief of joy. Own lane. Own race. Own pace.
+- ⚙️ Programming languages : C#, C, C++, Python, Java
 - 📫 My socials:
 >  Email - aaronpeter0019@gmail.com
 .. Instagram - [@_arrow_019](https://www.instagram.com/_arrow_019/?next=%2F)
